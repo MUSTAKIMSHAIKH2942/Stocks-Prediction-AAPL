@@ -49,6 +49,3 @@ This project performs a detailed time series analysis and forecasting for Apple 
     python time_series_analysis.py
     ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
