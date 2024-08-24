@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fly Me to My Destination</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        label, input, button {
+            display: block;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fly Me to My Destination</h1>
+    <form id="testForm">
+        <label for="fuelArray">Enter Fuel Array (comma separated):</label>
+        <input type="text" id="fuelArray" name="fuelArray" required>
+        <button type="submit">Calculate</button>
+    </form>
+    <p id="result"></p>
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+=======
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+>>>>>>> e71e4ad8caa489cb4af084471ec782183bbd9d8b
+RewriteRule . /index.html [L]

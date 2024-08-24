@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.799742e3.css",
+    "main.js": "/static/js/main.a7bd09a2.js",
+    "static/js/206.b26d3b06.chunk.js": "/static/js/206.b26d3b06.chunk.js",
+    "static/media/PNG555.jpg": "/static/media/PNG555.d0f6fc028f4b3f268a78.jpg",
+    "static/media/aspirin.png": "/static/media/aspirin.4efcf6eae7215e4a1366.png",
+    "static/media/product-sodium.png": "/static/media/product-sodium.62ceba5a0a9f8c79f30b.png",
+    "static/media/contact.jpg": "/static/media/contact.83fe95c51d7bcc01a351.jpg",
+    "static/media/talcum.jpg": "/static/media/talcum.0189a93813da6a17451c.jpg",
+    "static/media/compliance.webp": "/static/media/compliance.c98999d5c4ed48ef322f.webp",
+    "static/media/sunscreen.jpg": "/static/media/sunscreen.ef34eb07b8c4f7845258.jpg",
+    "static/media/toothpaste.jpg": "/static/media/toothpaste.cdad27f3f0d831683e73.jpg",
+    "static/media/product-salicylamide.jpg": "/static/media/product-salicylamide.305ab2648d1d3f3965b3.jpg",
+    "static/media/homo1.jpg": "/static/media/homo1.aeb7a2c06390d22bb8b3.jpg",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff"
+  },
+  "entrypoints": [
+    "static/css/main.799742e3.css",
+    "static/js/main.a7bd09a2.js"
+  ]
+}
